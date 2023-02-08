@@ -26,6 +26,7 @@ list-style: none;
     margin-left: auto;
 }
 a{
+    transfer:uppercase;
     text-decoration: none;
     color: white;
     padding: 20px;
