@@ -32,6 +32,9 @@ a{
     padding: 20px;
 }
 /* cover */
+.zone .red .container{
+text-transform:uppercase;
+}
 .container{
     text-transform:uppercase;
     display: flex;
